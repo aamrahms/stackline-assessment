@@ -1,0 +1,28 @@
+.sidebar {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 20%;
+  padding: 10px;
+  background-color: white;
+  margin: 1rem;
+
+}
+
+.sidebar h1 {
+  font-size: 1.5rem;
+}
+
+.sidebar p {
+  font-size: 0.9rem;
+  color: #92a3b3;
+}
+
+.tags {
+  display: flex;
+}
+.tags div {
+  margin: 1%;
+  color: #5d6b79;
+  box-shadow: 0 0 2px 2px rgb(241, 240, 240);
+}
